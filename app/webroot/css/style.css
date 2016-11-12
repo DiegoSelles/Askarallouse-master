@@ -1,0 +1,167 @@
+
+body {
+	background-color: #fffafa;
+}
+
+a:focus {
+	outline:none;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: rgba(51,51,51,.7);
+}
+
+/* Text colors */
+.text-white {
+	color: #fffafa;
+}
+.text-white a {
+	color: #fffafa;
+}
+.text-red {
+	color: red;
+}
+.text-orange {
+	color: orange;
+}
+.text-aqua {
+	color: #00c0ef;
+}
+
+
+/* Fuentes */
+
+a, p, h1, h2 ,h3, h4, h5, h6, input, textarea {
+	font-family: "Alegreya", sans-serif;
+	text-align: justify;
+}
+
+
+/* Cabecera principal */
+
+#buscar {
+	background-image: url("../img/matrix_colors.png");
+	background-size:cover;
+}
+.header-ppal {
+	background-color: rgba(0,0,0,.25);
+	margin-bottom: 7px;
+	
+	border-radius: 0px 0px 3px 3px;
+	-moz-border-radius: 0px 0px 3px 3px;
+	-webkit-border-radius: 0px 0px 3px 3px;
+	
+	box-shadow: 0px 0px 2px 5px rgba(0,0,0,.8);
+	-moz-box-shadow: 0px 0px 2px 5px rgba(0,0,0,.8);
+	-webkit-box-shadow: 0px 0px 2px 5px rgba(0,0,0,.8);
+}
+
+.header-img {
+	max-width: 250px;
+}
+.h8{
+	height: calc(100% - 100px);
+}
+
+
+.no-padding-side {
+	padding-left:0px;
+	padding-right:0px;
+}
+.no-margin-bottom{
+	margin-bottom: 0px;
+}
+
+
+
+
+/* Sidebar */
+.sidebar-mod {
+	background-color: rgba(51, 51, 51,0.9);
+}
+
+.size-img {
+	max-width:50px;
+	margin-right: 15px;
+}
+
+.mv-right {
+	left:10px;
+}
+
+
+
+.bg-white {
+	background-color: #fffafa;
+}
+
+.txt-center {
+	text-align: center;
+}
+
+.border-ans {
+	border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+}
+
+.txtarea-mod {
+	resize:none;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+
+#login-menu > .login {
+	width: 360px;
+}
+.margin-login {
+	margin-bottom: 5px;
+}
+
+.margin-panel {
+	margin-top: 15px;
+}
+.sizeP14 {
+	font-size:14px;
+}
+.margin-none {
+	margin:0px;
+}
+
+.marginTop-none {
+	margin-top:0px;
+}
+.textCenter {
+	text-align:center;
+}
+
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+/* container width: 750px */
+@media (min-width: 768px) { 
+	
+}
+
+/* Medium devices (desktops, 992px and up) */
+/* container width: 970 */
+@media (min-width: 992px) {
+	div.small-query {
+		margin-bottom: 5px;
+	}
+}
+	
+
+
+/* Large devices (large desktops, 1200px and up) */
+/* container width: 1170px */
+@media (min-width: 1200px) {
+	div.small-query {
+		margin-bottom: 5px;
+	}
+}
