@@ -1,0 +1,129 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /leftSidebar.ctp:11
+msgid "Online"
+msgstr ""
+
+#: /leftSidebar.ctp:15
+msgid "Perfil"
+msgstr "Profile"
+
+#: /leftSidebar.ctp:16
+msgid "Buscar"
+msgstr "Find"
+
+#: /leftSidebar.ctp:17
+msgid "Filtrar"
+msgstr ""
+
+#: /leftSidebar.ctp:20
+msgid "Mensajes"
+msgstr "Messages"
+
+#: /leftSidebar.ctp:24
+msgid "Preguntas"
+msgstr "Questions"
+
+#: /leftSidebar.ctp:25
+msgid "Favoritas"
+msgstr "Favorites"
+
+#: /leftSidebar.ctp:26
+msgid "Mis Preguntas"
+msgstr "My Questions"
+
+#: /leftSidebar.ctp:27
+msgid "Mis Respuestas"
+msgstr "My Answers"
+
+#: /leftSidebar.ctp:37
+msgid "pregunta"
+msgstr "question"
+
+#: /leftSidebar.ctp:61
+#: /rightSidebar.ctp:55
+msgid "Descripción:"
+msgstr "Description:"
+
+#: /leftSidebar.ctp:68
+#: /rightSidebar.ctp:62
+msgid "Cerrar"
+msgstr "Close"
+
+#: /navbar-1.ctp:20
+msgid "TAGS"
+msgstr "TAGS"
+
+#: /navbar-1.ctp:23
+msgid "Registro"
+msgstr "Register"
+
+#: /navbar-1.ctp:26
+msgid "Login"
+msgstr ""
+
+#: /navbar-1.ctp:32
+msgid "Identificarse"
+msgstr "Login"
+
+#: /navbar-1.ctp:33;35
+msgid "Usuario"
+msgstr "User"
+
+#: /navbar-1.ctp:36;38
+msgid "Contraseña"
+msgstr "Password"
+
+#: /navbar-1.ctp:41
+msgid "Recuerdame"
+msgstr "Remember me"
+
+#: /navbar-1.ctp:104
+msgid "Antes"
+msgstr "Previous"
+
+#: /navbar-1.ctp:108
+msgid "Despues"
+msgstr "Next"
+
+#: /navbar-2.ctp:31
+msgid "Desconectarse"
+msgstr "Logout"
+
+#: /rightSidebar.ctp:4
+msgid "Info"
+msgstr "Info"
+
+#: /rightSidebar.ctp:7
+msgid "Usuario Registrados"
+msgstr "Register Users"
+
+#: /rightSidebar.ctp:8
+msgid "Usuarios online"
+msgstr "Online Users"
+
+#: /rightSidebar.ctp:11
+msgid "Usuarios nuevos"
+msgstr "New Users"
+
+#: /rightSidebar.ctp:16
+msgid "Preguntas Calientes"
+msgstr "Hot Questions"
+
+#: /rightSidebar.ctp:31
+msgid "Pregunta"
+msgstr "Question"
+
